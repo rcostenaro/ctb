@@ -604,8 +604,36 @@ Art. 128. Não será expedido novo Certificado de Registro de Veículo enquanto 
 Art. 129. O registro e o licenciamento dos veículos de propulsão humana, dos ciclomotores e dos veículos de tração animal obedecerão à regulamentação estabelecida em legislação municipal do domicílio ou residência de seus proprietários.
 CAPÍTULO XII
 DO LICENCIAMENTO
+Art. 130. Todo veículo automotor, elétrico, articulado, reboque ou semi-reboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito Federal, onde estiver registrado o veículo.
+§ 1º O disposto neste artigo não se aplica a veículo de uso bélico.
+§ 2º No caso de transferência de residência ou domicílio, é válido, durante o exercício, o licenciamento de origem.
+Art. 131. O Certificado de Licenciamento Anual será expedido ao veículo licenciado, vinculado ao Certificado de Registro, no modelo e especificações estabelecidos pelo CONTRAN.
+§ 1º O primeiro licenciamento será feito simultaneamente ao registro.
+§ 2º O veículo somente será considerado licenciado estando quitados os débitos relativos a tributos, encargos e multas de trânsito e ambientais, vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas.
+§ 3º Ao licenciar o veículo, o proprietário deverá comprovar sua aprovação nas inspeções de segurança veicular e de controle de emissões de gases poluentes e de ruído, conforme disposto no art. 104.
+Art. 132. Os veículos novos não estão sujeitos ao licenciamento e terão sua circulação regulada pelo CONTRAN durante o trajeto entre a fábrica e o Município de destino. 
+Parágrafo único. O disposto neste artigo aplica-se, igualmente, aos veículos importados, durante o trajeto entre a alfândega ou entreposto alfandegário e o Município de destino. 
+Art. 133. É obrigatório o porte do Certificado de Licenciamento Anual.
+Art. 134. No caso de transferência de propriedade, o proprietário antigo deverá encaminhar ao órgão executivo de trânsito do Estado dentro de um prazo de trinta dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação.
+Art. 135. Os veículos de aluguel, destinados ao transporte individual ou coletivo de passageiros de linhas regulares ou empregados em qualquer serviço remunerado, para registro, licenciamento e respectivo emplacamento de característica comercial, deverão estar devidamente autorizados pelo poder público concedente.
 CAPÍTULO XIII
 DA CONDUÇÃO DE ESCOLARES
+Art. 136. Os veículos especialmente destinados à condução coletiva de escolares somente poderão circular nas vias com autorização emitida pelo órgão ou entidade executivos de trânsito dos Estados e do Distrito Federal, exigindo-se, para tanto:
+I - registro como veículo de passageiros;
+II - inspeção semestral para verificação dos equipamentos obrigatórios e de segurança;
+III - pintura de faixa horizontal na cor amarela, com quarenta centímetros de largura, à meia altura, em toda a extensão das partes laterais e traseira da carroçaria, com o dístico ESCOLAR, em preto, sendo que, em caso de veículo de carroçaria pintada na cor amarela, as cores aqui indicadas devem ser invertidas;
+IV - equipamento registrador instantâneo inalterável de velocidade e tempo;
+V - lanternas de luz branca, fosca ou amarela dispostas nas extremidades da parte superior dianteira e lanternas de luz vermelha dispostas na extremidade superior da parte traseira;
+VI - cintos de segurança em número igual à lotação;
+VII - outros requisitos e equipamentos obrigatórios estabelecidos pelo CONTRAN.
+Art. 137. A autorização a que se refere o artigo anterior deverá ser afixada na parte interna do veículo, em local visível, com inscrição da lotação permitida, sendo vedada a condução de escolares em número superior à capacidade estabelecida pelo fabricante.
+Art. 138. O condutor de veículo destinado à condução de escolares deve satisfazer os seguintes requisitos:
+I - ter idade superior a vinte e um anos;
+II - ser habilitado na categoria D;
+III - (VETADO)
+IV - não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias durante os doze últimos meses;
+V - ser aprovado em curso especializado, nos termos da regulamentação do CONTRAN.
+Art. 139. O disposto neste Capítulo não exclui a competência municipal de aplicar as exigências previstas em seus regulamentos, para o transporte de escolares.
 CAPÍTULO XIV
 DA HABILITAÇÃO
 CAPÍTULO XV
