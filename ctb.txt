@@ -386,10 +386,62 @@ Art. 73. Os órgãos ou entidades pertencentes ao Sistema Nacional de Trânsito 
 Parágrafo único. As campanhas de trânsito devem esclarecer quais as atribuições dos órgãos e entidades pertencentes ao Sistema Nacional de Trânsito e como proceder a tais solicitações.
 CAPÍTULO VI
 DA EDUCAÇÃO PARA O TRÂNSITO
+Art. 74. A educação para o trânsito é direito de todos e constitui dever prioritário para os componentes do Sistema Nacional de Trânsito.
+§ 1º É obrigatória a existência de coordenação educacional em cada órgão ou entidade componente do Sistema Nacional de Trânsito.
+§ 2º Os órgãos ou entidades executivos de trânsito deverão promover, dentro de sua estrutura organizacional ou mediante convênio, o funcionamento de Escolas Públicas de Trânsito, nos moldes e padrões estabelecidos pelo CONTRAN.
+Art. 75. O CONTRAN estabelecerá, anualmente, os temas e os cronogramas das campanhas de âmbito nacional que deverão ser promovidas por todos os órgãos ou entidades do Sistema Nacional de Trânsito, em especial nos períodos referentes às férias escolares, feriados prolongados e à Semana Nacional de Trânsito.
+§ 1º Os órgãos ou entidades do Sistema Nacional de Trânsito deverão promover outras campanhas no âmbito de sua circunscrição e de acordo com as peculiaridades locais.
+§ 2º As campanhas de que trata este artigo são de caráter permanente, e os serviços de rádio e difusão sonora de sons e imagens explorados pelo poder público são obrigados a difundi-las gratuitamente, com a freqüência recomendada pelos órgãos competentes do Sistema Nacional de Trânsito.
+Art. 76. A educação para o trânsito será promovida na pré-escola e nas escolas de 1º, 2º e 3º graus, por meio de planejamento e ações coordenadas entre os órgãos e entidades do Sistema Nacional de Trânsito e de Educação, da União, dos Estados, do Distrito Federal e dos Municípios, nas respectivas áreas de atuação.
+Parágrafo único. Para a finalidade prevista neste artigo, o Ministério da Educação e do Desporto, mediante proposta do CONTRAN e do Conselho de Reitores das Universidades Brasileiras, diretamente ou mediante convênio, promoverá:
+I - a adoção, em todos os níveis de ensino, de um currículo interdisciplinar com conteúdo programático sobre segurança de trânsito;
+II - a adoção de conteúdos relativos à educação para o trânsito nas escolas de formação para o magistério e o treinamento de professores e multiplicadores;
+III - a criação de corpos técnicos interprofissionais para levantamento e análise de dados estatísticos relativos ao trânsito;
+IV - a elaboração de planos de redução de acidentes de trânsito junto aos núcleos interdisciplinares universitários de trânsito, com vistas à integração universidades-sociedade na área de trânsito.
+Art. 77. No âmbito da educação para o trânsito caberá ao Ministério da Saúde, mediante proposta do CONTRAN, estabelecer campanha nacional esclarecendo condutas a serem seguidas nos primeiros socorros em caso de acidente de trânsito.
+Parágrafo único. As campanhas terão caráter permanente por intermédio do Sistema Único de Saúde - SUS, sendo intensificadas nos períodos e na forma estabelecidos no art. 76.
+Art. 78. Os Ministérios da Saúde, da Educação e do Desporto, do Trabalho, dos Transportes e da Justiça, por intermédio do CONTRAN, desenvolverão e implementarão programas destinados à prevenção de acidentes.
+Parágrafo único. O percentual de dez por cento do total dos valores arrecadados destinados à Previdência Social, do Prêmio do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores de Via Terrestre - DPVAT, de que trata a Lei nº 6.194, de 19 de dezembro de 1974, serão repassados mensalmente ao Coordenador do Sistema Nacional de Trânsito para aplicação exclusiva em programas de que trata este artigo.
+Art. 79. Os órgãos e entidades executivos de trânsito poderão firmar convênio com os órgãos de educação da União, dos Estados, do Distrito Federal e dos Municípios, objetivando o cumprimento das obrigações estabelecidas neste capítulo.
 CAPÍTULO VII
 DA SINALIZAÇÃO DE TRÂNSITO
+Art. 80. Sempre que necessário, será colocada ao longo da via, sinalização prevista neste Código e em legislação complementar, destinada a condutores e pedestres, vedada a utilização de qualquer outra.
+§ 1º A sinalização será colocada em posição e condições que a tornem perfeitamente visível e legível durante o dia e a noite, em distância compatível com a segurança do trânsito, conforme normas e especificações do CONTRAN.
+§ 2º O CONTRAN poderá autorizar, em caráter experimental e por período prefixado, a utilização de sinalização não prevista neste Código.
+Art. 81. Nas vias públicas e nos imóveis é proibido colocar luzes, publicidade, inscrições, vegetação e mobiliário que possam gerar confusão, interferir na visibilidade da sinalização e comprometer a segurança do trânsito.
+Art. 82. É proibido afixar sobre a sinalização de trânsito e respectivos suportes, ou junto a ambos, qualquer tipo de publicidade, inscrições, legendas e símbolos que não se relacionem com a mensagem da sinalização.
+Art. 83. A afixação de publicidade ou de quaisquer legendas ou símbolos ao longo das vias condiciona-se à prévia aprovação do órgão ou entidade com circunscrição sobre a via.
+Art. 84. O órgão ou entidade de trânsito com circunscrição sobre a via poderá retirar ou determinar a imediata retirada de qualquer elemento que prejudique a visibilidade da sinalização viária e a segurança do trânsito, com ônus para quem o tenha colocado.
+Art. 85. Os locais destinados pelo órgão ou entidade de trânsito com circunscrição sobre a via à travessia de pedestres deverão ser sinalizados com faixas pintadas ou demarcadas no leito da via.
+Art. 86. Os locais destinados a postos de gasolina, oficinas, estacionamentos ou garagens de uso coletivo deverão ter suas entradas e saídas devidamente identificadas, na forma regulamentada pelo CONTRAN.
+Art. 87. Os sinais de trânsito classificam-se em:
+I - verticais;
+II - horizontais;
+III - dispositivos de sinalização auxiliar;
+IV - luminosos;
+V - sonoros;
+VI - gestos do agente de trânsito e do condutor.
+Art. 88. Nenhuma via pavimentada poderá ser entregue após sua construção, ou reaberta ao trânsito após a realização de obras ou de manutenção, enquanto não estiver devidamente sinalizada, vertical e horizontalmente, de forma a garantir as condições adequadas de segurança na circulação.
+Parágrafo único. Nas vias ou trechos de vias em obras deverá ser afixada sinalização específica e adequada.
+Art. 89. A sinalização terá a seguinte ordem de prevalência:
+I - as ordens do agente de trânsito sobre as normas de circulação e outros sinais;
+II - as indicações do semáforo sobre os demais sinais;
+III - as indicações dos sinais sobre as demais normas de trânsito.
+Art. 90. Não serão aplicadas as sanções previstas neste Código por inobservância à sinalização quando esta for insuficiente ou incorreta.
+§ 1º O órgão ou entidade de trânsito com circunscrição sobre a via é responsável pela implantação da sinalização, respondendo pela sua falta, insuficiência ou incorreta colocação.
+§ 2º O CONTRAN editará normas complementares no que se refere à interpretação, colocação e uso da sinalização.
 CAPÍTULO VIII
 DA ENGENHARIA DE TRÁFEGO, DA OPERAÇÃO, DA FISCALIZAÇÃO E DO POLICIAMENTO OSTENSIVO DE TRÂNSITO
+Art. 91. O CONTRAN estabelecerá as normas e regulamentos a serem adotados em todo o território nacional quando da implementação das soluções adotadas pela Engenharia de Tráfego, assim como padrões a serem praticados por todos os órgãos e entidades do Sistema Nacional de Trânsito.
+Art. 92. (VETADO)
+Art. 93. Nenhum projeto de edificação que possa transformar-se em pólo atrativo de trânsito poderá ser aprovado sem prévia anuência do órgão ou entidade com circunscrição sobre a via e sem que do projeto conste área para estacionamento e indicação das vias de acesso adequadas.
+Art. 94. Qualquer obstáculo à livre circulação e à segurança de veículos e pedestres, tanto na via quanto na calçada, caso não possa ser retirado, deve ser devida e imediatamente sinalizado.
+Parágrafo único. É proibida a utilização das ondulações transversais e de sonorizadores como redutores de velocidade, salvo em casos especiais definidos pelo órgão ou entidade competente, nos padrões e critérios estabelecidos pelo CONTRAN.
+Art. 95. Nenhuma obra ou evento que possa perturbar ou interromper a livre circulação de veículos e pedestres, ou colocar em risco sua segurança, será iniciada sem permissão prévia do órgão ou entidade de trânsito com circunscrição sobre a via.
+§ 1º A obrigação de sinalizar é do responsável pela execução ou manutenção da obra ou do evento.
+§ 2º Salvo em casos de emergência, a autoridade de trânsito com circunscrição sobre a via avisará a comunidade, por intermédio dos meios de comunicação social, com quarenta e oito horas de antecedência, de qualquer interdição da via, indicando-se os caminhos alternativos a serem utilizados.
+§ 3º A inobservância do disposto neste artigo será punida com multa que varia entre cinqüenta e trezentas UFIR, independentemente das cominações cíveis e penais cabíveis.
+§ 4º Ao servidor público responsável pela inobservância de qualquer das normas previstas neste e nos arts. 93 e 94, a autoridade de trânsito aplicará multa diária na base de cinqüenta por cento do dia de vencimento ou remuneração devida enquanto permanecer a irregularidade.
 CAPÍTULO IX
 DOS VEÍCULOS
 CAPÍTULO X
