@@ -444,10 +444,164 @@ Art. 95. Nenhuma obra ou evento que possa perturbar ou interromper a livre circu
 § 4º Ao servidor público responsável pela inobservância de qualquer das normas previstas neste e nos arts. 93 e 94, a autoridade de trânsito aplicará multa diária na base de cinqüenta por cento do dia de vencimento ou remuneração devida enquanto permanecer a irregularidade.
 CAPÍTULO IX
 DOS VEÍCULOS
+Seção I
+Disposições Gerais
+Art. 96. Os veículos classificam-se em:
+I - quanto à tração:
+a) automotor;
+b) elétrico;
+c) de propulsão humana;
+d) de tração animal;
+e) reboque ou semi-reboque;
+II - quanto à espécie:
+a) de passageiros:
+1 - bicicleta;
+2 - ciclomotor;
+3 - motoneta;
+4 - motocicleta;
+5 - triciclo;
+6 - quadriciclo;
+7 - automóvel;
+8 - microônibus;
+9 - ônibus;
+10 - bonde;
+11 - reboque ou semi-reboque;
+12 - charrete;
+b) de carga:
+1 - motoneta;
+2 - motocicleta;
+3 - triciclo;
+4 - quadriciclo;
+5 - caminhonete;
+6 - caminhão;
+7 - reboque ou semi-reboque;
+8 - carroça;
+9 - carro-de-mão;
+c) misto:
+1 - camioneta;
+2 - utilitário;
+3 - outros;
+d) de competição;
+e) de tração:
+1 - caminhão-trator;
+2 - trator de rodas;
+3 - trator de esteiras;
+4 - trator misto;
+f) especial;
+g) de coleção;
+III - quanto à categoria:
+a) oficial;
+b) de representação diplomática, de repartições consulares de carreira ou organismos internacionais acreditados junto ao Governo brasileiro;
+c) particular;
+d) de aluguel;
+e) de aprendizagem.
+Art. 97. As características dos veículos, suas especificações básicas, configuração e condições essenciais para registro, licenciamento e circulação serão estabelecidas pelo CONTRAN, em função de suas aplicações.
+Art. 98. Nenhum proprietário ou responsável poderá, sem prévia autorização da autoridade competente, fazer ou ordenar que sejam feitas no veículo modificações de suas características de fábrica.
+Parágrafo único. Os veículos e motores novos ou usados que sofrerem alterações ou conversões são obrigados a atender aos mesmos limites e exigências de emissão de poluentes e ruído previstos pelos órgãos ambientais competentes e pelo CONTRAN, cabendo à entidade executora das modificações e ao proprietário do veículo a responsabilidade pelo cumprimento das exigências.
+Art. 99. Somente poderá transitar pelas vias terrestres o veículo cujo peso e dimensões atenderem aos limites estabelecidos pelo CONTRAN.
+§ 1º O excesso de peso será aferido por equipamento de pesagem ou pela verificação de documento fiscal, na forma estabelecida pelo CONTRAN.
+§ 2º Será tolerado um percentual sobre os limites de peso bruto total e peso bruto transmitido por eixo de veículos à superfície das vias, quando aferido por equipamento, na forma estabelecida pelo CONTRAN.
+§ 3º Os equipamentos fixos ou móveis utilizados na pesagem de veículos serão aferidos de acordo com a metodologia e na periodicidade estabelecidas pelo CONTRAN, ouvido o órgão ou entidade de metrologia legal.
+Art. 100. Nenhum veículo ou combinação de veículos poderá transitar com lotação de passageiros, com peso bruto total, ou com peso bruto total combinado com peso por eixo, superior ao fixado pelo fabricante, nem ultrapassar a capacidade máxima de tração da unidade tratora.
+Parágrafo único. O CONTRAN regulamentará o uso de pneus extralargos, definindo seus limites de peso.
+Art. 101. Ao veículo ou combinação de veículos utilizado no transporte de carga indivisível, que não se enquadre nos limites de peso e dimensões estabelecidos pelo CONTRAN, poderá ser concedida, pela autoridade com circunscrição sobre a via, autorização especial de trânsito, com prazo certo, válida para cada viagem, atendidas as medidas de segurança consideradas necessárias.
+§ 1º A autorização será concedida mediante requerimento que especificará as características do veículo ou combinação de veículos e de carga, o percurso, a data e o horário do deslocamento inicial.
+§ 2º A autorização não exime o beneficiário da responsabilidade por eventuais danos que o veículo ou a combinação de veículos causar à via ou a terceiros.
+§ 3º Aos guindastes autopropelidos ou sobre caminhões poderá ser concedida, pela autoridade com circunscrição sobre a via, autorização especial de trânsito, com prazo de seis meses, atendidas as medidas de segurança consideradas necessárias.
+Art. 102. O veículo de carga deverá estar devidamente equipado quando transitar, de modo a evitar o derramamento da carga sobre a via.
+Parágrafo único. O CONTRAN fixará os requisitos mínimos e a forma de proteção das cargas de que trata este artigo, de acordo com a sua natureza.
+Seção II
+Da Segurança dos Veículos
+Art. 103. O veículo só poderá transitar pela via quando atendidos os requisitos e condições de segurança estabelecidos neste Código e em normas do CONTRAN.
+§ 1º Os fabricantes, os importadores, os montadores e os encarroçadores de veículos deverão emitir certificado de segurança, indispensável ao cadastramento no RENAVAM, nas condições estabelecidas pelo CONTRAN.
+§ 2º O CONTRAN deverá especificar os procedimentos e a periodicidade para que os fabricantes, os importadores, os montadores e os encarroçadores comprovem o atendimento aos requisitos de segurança veicular, devendo, para isso, manter disponíveis a qualquer tempo os resultados dos testes e ensaios dos sistemas e componentes abrangidos pela legislação de segurança veicular.
+Art. 104. Os veículos em circulação terão suas condições de segurança, de controle de emissão de gases poluentes e de ruído avaliadas mediante inspeção, que será obrigatória, na forma e periodicidade estabelecidas pelo CONTRAN para os itens de segurança e pelo CONAMA para emissão de gases poluentes e ruído.
+§ 1º (VETADO)
+§ 2º (VETADO)
+§ 3º (VETADO)
+§ 4º (VETADO)
+§ 5º Será aplicada a medida administrativa de retenção aos veículos reprovados na inspeção de segurança e na de emissão de gases poluentes e ruído.
+Art. 105. São equipamentos obrigatórios dos veículos, entre outros a serem estabelecidos pelo CONTRAN:
+I - cinto de segurança, conforme regulamentação específica do CONTRAN, com exceção dos veículos destinados ao transporte de passageiros em percursos em que seja permitido viajar em pé;
+II - para os veículos de transporte e de condução escolar, os de transporte de passageiros com mais de dez lugares e os de carga com peso bruto total superior a quatro mil, quinhentos e trinta e seis quilogramas, equipamento registrador instantâneo inalterável de velocidade e tempo;
+III - encosto de cabeça, para todos os tipos de veículos automotores, segundo normas estabelecidas pelo CONTRAN;
+IV - (VETADO)
+V - dispositivo destinado ao controle de emissão de gases poluentes e de ruído, segundo normas estabelecidas pelo CONTRAN.
+VI - para as bicicletas, a campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo.
+§ 1º O CONTRAN disciplinará o uso dos equipamentos obrigatórios dos veículos e determinará suas especificações técnicas.
+§ 2º Nenhum veículo poderá transitar com equipamento ou acessório proibido, sendo o infrator sujeito às penalidades e medidas administrativas previstas neste Código.
+§ 3º Os fabricantes, os importadores, os montadores, os encarroçadores de veículos e os revendedores devem comercializar os seus veículos com os equipamentos obrigatórios definidos neste artigo, e com os demais estabelecidos pelo CONTRAN.
+§ 4º O CONTRAN estabelecerá o prazo para o atendimento do disposto neste artigo.
+Art. 106. No caso de fabricação artesanal ou de modificação de veículo ou, ainda, quando ocorrer substituição de equipamento de segurança especificado pelo fabricante, será exigido, para licenciamento e registro, certificado de segurança expedido por instituição técnica credenciada por órgão ou entidade de metrologia legal, conforme norma elaborada pelo CONTRAN.
+Art. 107. Os veículos de aluguel, destinados ao transporte individual ou coletivo de passageiros, deverão satisfazer, além das exigências previstas neste Código, às condições técnicas e aos requisitos de segurança, higiene e conforto estabelecidos pelo poder competente para autorizar, permitir ou conceder a exploração dessa atividade.
+Art. 108. Onde não houver linha regular de ônibus, a autoridade com circunscrição sobre a via poderá autorizar, a título precário, o transporte de passageiros em veículo de carga ou misto, desde que obedecidas as condições de segurança estabelecidas neste Código e pelo CONTRAN.
+Art. 109. O transporte de carga em veículos destinados ao transporte de passageiros só pode ser realizado de acordo com as normas estabelecidas pelo CONTRAN.
+Art. 110. O veículo que tiver alterada qualquer de suas características para competição ou finalidade análoga só poderá circular nas vias públicas com licença especial da autoridade de trânsito, em itinerário e horário fixados.
+Art. 111. É vedado, nas áreas envidraçadas do veículo:
+I - (VETADO)
+II - o uso de cortinas, persianas fechadas ou similares nos veículos em movimento, salvo nos que possuam espelhos retrovisores em ambos os lados.
+Parágrafo único. É proibido o uso de inscrição de caráter publicitário ou qualquer outra que possa desviar a atenção dos condutores em toda a extensão do pára-brisa e da traseira dos veículos, salvo se não colocar em risco a segurança do trânsito.
+Art. 112. O CONTRAN regulamentará os materiais e equipamentos que devam fazer parte do conjunto de primeiros socorros, de porte obrigatório para os veículos
+Art. 113. Os importadores, as montadoras, as encarroçadoras e fabricantes de veículos e autopeças são responsáveis civil e criminalmente por danos causados aos usuários, a terceiros, e ao meio ambiente, decorrentes de falhas oriundas de projetos e da qualidade dos materiais e equipamentos utilizados na sua fabricação.
+Seção III
+Da Identificação do Veículo
+Art. 114. O veículo será identificado obrigatoriamente por caracteres gravados no chassi ou no monobloco, reproduzidos em outras partes, conforme dispuser o CONTRAN.
+§ 1º A gravação será realizada pelo fabricante ou montador, de modo a identificar o veículo, seu fabricante e as suas características, além do ano de fabricação, que não poderá ser alterado.
+§ 2º As regravações, quando necessárias, dependerão de prévia autorização da autoridade executiva de trânsito e somente serão processadas por estabelecimento por ela credenciado, mediante a comprovação de propriedade do veículo, mantida a mesma identificação anterior, inclusive o ano de fabricação.
+§ 3º Nenhum proprietário poderá, sem prévia permissão da autoridade executiva de trânsito, fazer, ou ordenar que se faça, modificações da identificação de seu veículo.
+Art. 115. O veículo será identificado externamente por meio de placas dianteira e traseira, sendo esta lacrada em sua estrutura, obedecidas as especificações e modelos estabelecidos pelo CONTRAN.
+§ 1º Os caracteres das placas serão individualizados para cada veículo e o acompanharão até a baixa do registro, sendo vedado seu reaproveitamento.
+§ 2º As placas com as cores verde e amarela da Bandeira Nacional serão usadas somente pelos veículos de representação pessoal do Presidente e do Vice-Presidente da República, dos Presidentes do Senado Federal e da Câmara dos Deputados, do Presidente e dos Ministros do Supremo Tribunal Federal, dos Ministros de Estado, do Advogado-Geral da União e do Procurador-Geral da República.
+§ 3º Os veículos de representação dos Presidentes dos Tribunais Federais, dos Governadores, Prefeitos, Secretários Estaduais e Municipais, dos Presidentes das Assembléias Legislativas, das Câmaras Municipais, dos Presidentes dos Tribunais Estaduais e do Distrito Federal, e do respectivo chefe do Ministério Público e ainda dos Oficiais Generais das Forças Armadas terão placas especiais, de acordo com os modelos estabelecidos pelo CONTRAN.
+§ 5º O disposto neste artigo não se aplica aos veículos de uso bélico. 
+§ 6º Os veículos de duas ou três rodas são dispensados da placa dianteira.
+Art. 116. Os veículos de propriedade da União, dos Estados e do Distrito Federal, devidamente registrados e licenciados, somente quando estritamente usados em serviço reservado de caráter policial, poderão usar placas particulares, obedecidos os critérios e limites estabelecidos pela legislação que regulamenta o uso de veículo oficial.
+Art. 117. Os veículos de transporte de carga e os coletivos de passageiros deverão conter, em local facilmente visível, a inscrição indicativa de sua tara, do peso bruto total (PBT), do peso bruto total combinado (PBTC) ou capacidade máxima de tração (CMT) e de sua lotação, vedado o uso em desacordo com sua classificação.
 CAPÍTULO X
 DOS VEÍCULOS EM CIRCULAÇÃO INTERNACIONAL
+Art. 118. A circulação de veículo no território nacional, independentemente de sua origem, em trânsito entre o Brasil e os países com os quais exista acordo ou tratado internacional, reger-se-á pelas disposições deste Código, pelas convenções e acordos internacionais ratificados.
+Art. 119. As repartições aduaneiras e os órgãos de controle de fronteira comunicarão diretamente ao RENAVAM a entrada e saída temporária ou definitiva de veículos.
+Parágrafo único. Os veículos licenciados no exterior não poderão sair do território nacional sem prévia quitação de débitos de multa por infrações de trânsito e o ressarcimento de danos que tiverem causado a bens do patrimônio público, respeitado o princípio da reciprocidade.
 CAPÍTULO XI
 DO REGISTRO DE VEÍCULOS
+Art. 120. Todo veículo automotor, elétrico, articulado, reboque ou semi-reboque, deve ser registrado perante o órgão executivo de trânsito do Estado ou do Distrito Federal, no Município de domicílio ou residência de seu proprietário, na forma da lei.
+§ 1º Os órgãos executivos de trânsito dos Estados e do Distrito Federal somente registrarão veículos oficiais de propriedade da administração direta, da União, dos Estados, do Distrito Federal e dos Municípios, de qualquer um dos poderes, com indicação expressa, por pintura nas portas, do nome, sigla ou logotipo do órgão ou entidade em cujo nome o veículo será registrado, excetuando-se os veículos de representação e os previstos no art. 116.
+§ 2º O disposto neste artigo não se aplica ao veículo de uso bélico.
+Art. 121. Registrado o veículo, expedir-se-á o Certificado de Registro de Veículo - CRV de acordo com os modelos e especificações estabelecidos pelo CONTRAN, contendo as características e condições de invulnerabilidade à falsificação e à adulteração.
+Art. 122. Para a expedição do Certificado de Registro de Veículo o órgão executivo de trânsito consultará o cadastro do RENAVAM e exigirá do proprietário os seguintes documentos:
+I - nota fiscal fornecida pelo fabricante ou revendedor, ou documento equivalente expedido por autoridade competente;
+II - documento fornecido pelo Ministério das Relações Exteriores, quando se tratar de veículo importado por membro de missões diplomáticas, de repartições consulares de carreira, de representações de organismos internacionais e de seus integrantes.
+Art. 123. Será obrigatória a expedição de novo Certificado de Registro de Veículo quando:
+I - for transferida a propriedade;
+II - o proprietário mudar o Município de domicílio ou residência;
+III - for alterada qualquer característica do veículo;
+IV - houver mudança de categoria.
+§ 1º No caso de transferência de propriedade, o prazo para o proprietário adotar as providências necessárias à efetivação da expedição do novo Certificado de Registro de Veículo é de trinta dias, sendo que nos demais casos as providências deverão ser imediatas.
+§ 2º No caso de transferência de domicílio ou residência no mesmo Município, o proprietário comunicará o novo endereço num prazo de trinta dias e aguardará o novo licenciamento para alterar o Certificado de Licenciamento Anual.
+§ 3º A expedição do novo certificado será comunicada ao órgão executivo de trânsito que expediu o anterior e ao RENAVAM.
+Art. 124. Para a expedição do novo Certificado de Registro de Veículo serão exigidos os seguintes documentos:
+I - Certificado de Registro de Veículo anterior;
+II - Certificado de Licenciamento Anual;
+III - comprovante de transferência de propriedade, quando for o caso, conforme modelo e normas estabelecidas pelo CONTRAN;
+IV - Certificado de Segurança Veicular e de emissão de poluentes e ruído, quando houver adaptação ou alteração de características do veículo;
+V - comprovante de procedência e justificativa da propriedade dos componentes e agregados adaptados ou montados no veículo, quando houver alteração das características originais de fábrica;
+VI - autorização do Ministério das Relações Exteriores, no caso de veículo da categoria de missões diplomáticas, de repartições consulares de carreira, de representações de organismos internacionais e de seus integrantes;
+VII - certidão negativa de roubo ou furto de veículo, expedida no Município do registro anterior, que poderá ser substituída por informação do RENAVAM;
+VIII - comprovante de quitação de débitos relativos a tributos, encargos e multas de trânsito vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas;
+IX - Registro Nacional de Transportadores Rodoviários, no caso de veículos de carga; 
+X - comprovante relativo ao cumprimento do disposto no art. 98, quando houver alteração nas características originais do veículo que afetem a emissão de poluentes e ruído;
+XI - comprovante de aprovação de inspeção veicular e de poluentes e ruído, quando for o caso, conforme regulamentações do CONTRAN e do CONAMA.
+Art. 125. As informações sobre o chassi, o monobloco, os agregados e as características originais do veículo deverão ser prestadas ao RENAVAM:
+I - pelo fabricante ou montadora, antes da comercialização, no caso de veículo nacional;
+II - pelo órgão alfandegário, no caso de veículo importado por pessoa física;
+III - pelo importador, no caso de veículo importado por pessoa jurídica.
+Parágrafo único. As informações recebidas pelo RENAVAM serão repassadas ao órgão executivo de trânsito responsável pelo registro, devendo este comunicar ao RENAVAM, tão logo seja o veículo registrado.
+Art. 126. O proprietário de veículo irrecuperável, ou definitivamente desmontado, deverá requerer a baixa do registro, no prazo e forma estabelecidos pelo CONTRAN, sendo vedada a remontagem do veículo sobre o mesmo chassi, de forma a manter o registro anterior. 
+Parágrafo único. A obrigação de que trata este artigo é da companhia seguradora ou do adquirente do veículo destinado à desmontagem, quando estes sucederem ao proprietário.
+Art. 127. O órgão executivo de trânsito competente só efetuará a baixa do registro após prévia consulta ao cadastro do RENAVAM.
+Parágrafo único. Efetuada a baixa do registro, deverá ser esta comunicada, de imediato, ao RENAVAM.
+Art. 128. Não será expedido novo Certificado de Registro de Veículo enquanto houver débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo, independentemente da responsabilidade pelas infrações cometidas.
+Art. 129. O registro e o licenciamento dos veículos de propulsão humana, dos ciclomotores e dos veículos de tração animal obedecerão à regulamentação estabelecida em legislação municipal do domicílio ou residência de seus proprietários.
 CAPÍTULO XII
 DO LICENCIAMENTO
 CAPÍTULO XIII
