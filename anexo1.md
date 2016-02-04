@@ -1,0 +1,235 @@
+####ANEXO I
+
+####DOS CONCEITOS E DEFINIÇÕES
+
+Para efeito deste Código adotam-se as seguintes definições:
+
+**ACOSTAMENTO** - parte da via diferenciada da pista de rolamento destinada à parada ou estacionamento de veículos, em caso de emergência, e à circulação de pedestres e bicicletas, quando não houver local apropriado para esse fim.
+
+**AGENTE DA AUTORIDADE DE TRÂNSITO** - pessoa, civil ou policial militar, credenciada pela autoridade de trânsito para o exercício das atividades de fiscalização, operação, policiamento ostensivo de trânsito ou patrulhamento.
+
+**AR ALVEOLAR** - ar expirado pela boca de um indivíduo, originário dos alvéolos pulmonares.
+
+**AUTOMÓVEL** - veículo automotor destinado ao transporte de passageiros, com capacidade para até oito pessoas, exclusive o condutor.
+
+**AUTORIDADE DE TRÂNSITO** - dirigente máximo de órgão ou entidade executivo integrante do Sistema Nacional de Trânsito ou pessoa por ele expressamente credenciada.
+
+**BALANÇO TRASEIRO** - distância entre o plano vertical passando pelos centros das rodas traseiras extremas e o ponto mais recuado do veículo, considerando-se todos os elementos rigidamente fixados ao mesmo.
+
+**BICICLETA** - veículo de propulsão humana, dotado de duas rodas, não sendo, para efeito deste Código, similar à motocicleta, motoneta e ciclomotor.
+
+**BICICLETÁRIO** - local, na via ou fora dela, destinado ao estacionamento de bicicletas.
+
+**BONDE** - veículo de propulsão elétrica que se move sobre trilhos.
+
+**BORDO DA PISTA** - margem da pista, podendo ser demarcada por linhas longitudinais de bordo que delineiam a parte da via destinada à circulação de veículos.
+
+**CALÇADA** - parte da via, normalmente segregada e em nível diferente, não destinada à circulação de veículos, reservada ao trânsito de pedestres e, quando possível, à implantação de mobiliário urbano, sinalização, vegetação e outros fins.
+
+**CAMINHÃO-TRATOR** - veículo automotor destinado a tracionar ou arrastar outro.
+
+**CAMINHONETE** - veículo destinado ao transporte de carga com peso bruto total de até três mil e quinhentos quilogramas.
+
+**CAMIONETA** - veículo misto destinado ao transporte de passageiros e carga no mesmo compartimento.
+
+**CANTEIRO CENTRAL** - obstáculo físico construído como separador de duas pistas de rolamento, eventualmente substituído por marcas viárias (canteiro fictício).
+
+**CAPACIDADE MÁXIMA DE TRAÇÃO** - máximo peso que a unidade de tração é capaz de tracionar, indicado pelo fabricante, baseado em condições sobre suas limitações de geração e multiplicação de momento de força e resistência dos elementos que compõem a transmissão.
+
+**CARREATA** - deslocamento em fila na via de veículos automotores em sinal de regozijo, de reivindicação, de protesto cívico ou de uma classe.
+
+**CARRO DE MÃO** - veículo de propulsão humana utilizado no transporte de pequenas cargas.
+
+**CARROÇA** - veículo de tração animal destinado ao transporte de carga.
+
+**CATADIÓPTRICO** - dispositivo de reflexão e refração da luz utilizado na sinalização de vias e veículos (olho-de-gato).
+
+**CHARRETE** - veículo de tração animal destinado ao transporte de pessoas.
+
+**CICLO** - veículo de pelo menos duas rodas a propulsão humana.
+
+**CICLOFAIXA** - parte da pista de rolamento destinada à circulação exclusiva de ciclos, delimitada por sinalização específica.
+
+**CICLOMOTOR** - veículo de duas ou três rodas, provido de um motor de combustão interna, cuja cilindrada não exceda a cinquenta centímetros cúbicos (3,05 polegadas cúbicas) e cuja velocidade máxima de fabricação não exceda a cinquenta quilômetros por hora.
+
+**CICLOVIA** - pista própria destinada à circulação de ciclos, separada fisicamente do tráfego comum.
+
+**CONVERSÃO** - movimento em ângulo, à esquerda ou à direita, de mudança da direção original do veículo.
+
+**CRUZAMENTO** - interseção de duas vias em nível.
+
+**DISPOSITIVO DE SEGURANÇA** - qualquer elemento que tenha a função específica de proporcionar maior segurança ao usuário da via, alertando-o sobre situações de perigo que possam colocar em risco sua integridade física e dos demais usuários da via, ou danificar seriamente o veículo.
+
+**ESTACIONAMENTO** - imobilização de veículos por tempo superior ao necessário para embarque ou desembarque de passageiros. 
+
+**ESTRADA** - via rural não pavimentada. 
+
+**ETILÔMETRO** - aparelho destinado à medição do teor alcoólico no ar alveolar.
+
+**FAIXAS DE DOMÍNIO** - superfície lindeira às vias rurais, delimitada por lei específica e sob responsabilidade do órgão ou entidade de trânsito competente com circunscrição sobre a via.
+
+**FAIXAS DE TRÂNSITO** - qualquer uma das áreas longitudinais em que a pista pode ser subdividida, sinalizada ou não por marcas viárias longitudinais, que tenham uma largura suficiente para permitir a circulação de veículos automotores.
+
+**FISCALIZAÇÃO** - ato de controlar o cumprimento das normas estabelecidas na legislação de trânsito, por meio do poder de polícia administrativa de trânsito, no âmbito de circunscrição dos órgãos e entidades executivos de trânsito e de acordo com as competências definidas neste Código.
+
+**FOCO DE PEDESTRES** - indicação luminosa de permissão ou impedimento de locomoção na faixa apropriada.
+
+**FREIO DE ESTACIONAMENTO** - dispositivo destinado a manter o veículo imóvel na ausência do condutor ou, no caso de um reboque, se este se encontra desengatado.
+
+**FREIO DE SEGURANÇA OU MOTOR** - dispositivo destinado a diminuir a marcha do veículo no caso de falha do freio de serviço.
+
+**FREIO DE SERVIÇO** - dispositivo destinado a provocar a diminuição da marcha do veículo ou pará-lo.
+
+**GESTOS DE AGENTES** - movimentos convencionais de braço, adotados exclusivamente pelos agentes de autoridades de trânsito nas vias, para orientar, indicar o direito de passagem dos veículos ou pedestres ou emitir ordens, sobrepondo-se ou completando outra sinalização ou norma constante deste Código.
+
+**GESTOS DE CONDUTORES** - movimentos convencionais de braço, adotados exclusivamente pelos condutores, para orientar ou indicar que vão efetuar uma manobra de mudança de direção, redução brusca de velocidade ou parada.
+
+**ILHA** - obstáculo físico, colocado na pista de rolamento, destinado à ordenação dos fluxos de trânsito em uma interseção.
+
+**INFRAÇÃO** - inobservância a qualquer preceito da legislação de trânsito, às normas emanadas do Código de Trânsito, do Conselho Nacional de Trânsito e a regulamentação estabelecida pelo órgão ou entidade executiva do trânsito.
+
+**INTERSEÇÃO** - todo cruzamento em nível, entroncamento ou bifurcação, incluindo as áreas formadas por tais cruzamentos, entroncamentos ou bifurcações.
+
+**INTERRUPÇÃO DE MARCHA** - imobilização do veículo para atender circunstância momentânea do trânsito.
+
+**LICENCIAMENTO** - procedimento anual, relativo a obrigações do proprietário de veículo, comprovado por meio de documento específico (Certificado de Licenciamento Anual).
+
+**LOGRADOURO PÚBLICO** - espaço livre destinado pela municipalidade à circulação, parada ou estacionamento de veículos, ou à circulação de pedestres, tais como calçada, parques, áreas de lazer, calçadões.
+
+**LOTAÇÃO** - carga útil máxima, incluindo condutor e passageiros, que o veículo transporta, expressa em quilogramas para os veículos de carga, ou número de pessoas, para os veículos de passageiros.
+
+**LOTE LINDEIRO** - aquele situado ao longo das vias urbanas ou rurais e que com elas se limita.
+
+**LUZ ALTA** - facho de luz do veículo destinado a iluminar a via até uma grande distância do veículo.
+
+**LUZ BAIXA** - facho de luz do veículo destinada a iluminar a via diante do veículo, sem ocasionar ofuscamento ou incômodo injustificáveis aos condutores e outros usuários da via que venham em sentido contrário.
+
+**LUZ DE FREIO** - luz do veículo destinada a indicar aos demais usuários da via, que se encontram atrás do veículo, que o condutor está aplicando o freio de serviço.
+
+**LUZ INDICADORA DE DIREÇÃO (pisca-pisca)** - luz do veículo destinada a indicar aos demais usuários da via que o condutor tem o propósito de mudar de direção para a direita ou para a esquerda.
+
+**LUZ DE MARCHA À RÉ** - luz do veículo destinada a iluminar atrás do veículo e advertir aos demais usuários da via que o veículo está efetuando ou a ponto de efetuar uma manobra de marcha à ré.
+
+**LUZ DE NEBLINA** - luz do veículo destinada a aumentar a iluminação da via em caso de neblina, chuva forte ou nuvens de pó.
+
+**LUZ DE POSIÇÃO (lanterna)** - luz do veículo destinada a indicar a presença e a largura do veículo.
+
+**MANOBRA** - movimento executado pelo condutor para alterar a posição em que o veículo está no momento em relação à via.
+
+**MARCAS VIÁRIAS** - conjunto de sinais constituídos de linhas, marcações, símbolos ou legendas, em tipos e cores diversas, apostos ao pavimento da via.
+
+**MICROÔNIBUS** - veículo automotor de transporte coletivo com capacidade para até vinte passageiros.
+
+**MOTOCICLETA** - veículo automotor de duas rodas, com ou sem side-car, dirigido por condutor em posição montada.
+
+**MOTONETA** - veículo automotor de duas rodas, dirigido por condutor em posição sentada.
+
+**MOTOR-CASA (MOTOR-HOME)** - veículo automotor cuja carroçaria seja fechada e destinada a alojamento, escritório, comércio ou finalidades análogas.
+
+**NOITE** - período do dia compreendido entre o pôr do sol e o nascer do sol.
+
+**ÔNIBUS** - veículo automotor de transporte coletivo com capacidade para mais de vinte passageiros, ainda que, em virtude de adaptações com vista à maior comodidade destes, transporte número menor.
+
+**OPERAÇÃO DE CARGA E DESCARGA** - imobilização do veículo, pelo tempo estritamente necessário ao carregamento ou descarregamento de animais ou carga, na forma disciplinada pelo órgão ou entidade executivo de trânsito competente com circunscrição sobre a via.
+
+**OPERAÇÃO DE TRÂNSITO** - monitoramento técnico baseado nos conceitos de Engenharia de Tráfego, das condições de fluidez, de estacionamento e parada na via, de forma a reduzir as interferências tais como veículos quebrados, acidentados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores.
+
+**PARADA** - imobilização do veículo com a finalidade e pelo tempo estritamente necessário para efetuar embarque ou desembarque de passageiros.
+
+**PASSAGEM DE NÍVEL** - todo cruzamento de nível entre uma via e uma linha férrea ou trilho de bonde com pista própria.
+
+**PASSAGEM POR OUTRO VEÍCULO** - movimento de passagem à frente de outro veículo que se desloca no mesmo sentido, em menor velocidade, mas em faixas distintas da via.
+
+**PASSAGEM SUBTERRÂNEA** - obra de arte destinada à transposição de vias, em desnível subterrâneo, e ao uso de pedestres ou veículos.
+
+**PASSARELA** - obra de arte destinada à transposição de vias, em desnível aéreo, e ao uso de pedestres.
+
+**PASSEIO** - parte da calçada ou da pista de rolamento, neste último caso, separada por pintura ou elemento físico separador, livre de interferências, destinada à circulação exclusiva de pedestres e, excepcionalmente, de ciclistas.
+
+**PATRULHAMENTO** - função exercida pela Polícia Rodoviária Federal com o objetivo de garantir obediência às normas de trânsito, assegurando a livre circulação e evitando acidentes. 
+
+**PERÍMETRO URBANO** - limite entre área urbana e área rural.
+
+**PESO BRUTO TOTAL** - peso máximo que o veículo transmite ao pavimento, constituído da soma da tara mais a lotação.
+
+**PESO BRUTO TOTAL COMBINADO** - peso máximo transmitido ao pavimento pela combinação de um caminhão-trator mais seu semi-reboque ou do caminhão mais o seu reboque ou reboques.
+
+**PISCA-ALERTA** - luz intermitente do veículo, utilizada em caráter de advertência, destinada a indicar aos demais usuários da via que o veículo está imobilizado ou em situação de emergência.
+
+**PISTA** - parte da via normalmente utilizada para a circulação de veículos, identificada por elementos separadores ou por diferença de nível em relação às calçadas, ilhas ou aos canteiros centrais.
+
+**PLACAS** - elementos colocados na posição vertical, fixados ao lado ou suspensos sobre a pista, transmitindo mensagens de caráter permanente e, eventualmente, variáveis, mediante símbolo ou legendas pré-reconhecidas e legalmente instituídas como sinais de trânsito.
+
+**POLICIAMENTO OSTENSIVO DE TRÂNSITO** - função exercida pelas Polícias Militares com o objetivo de prevenir e reprimir atos relacionados com a segurança pública e de garantir obediência às normas relativas à segurança de trânsito, assegurando a livre circulação e evitando acidentes.
+
+**PONTE** - obra de construção civil destinada a ligar margens opostas de uma superfície líquida qualquer.
+
+**REBOQUE** - veículo destinado a ser engatado atrás de um veículo automotor.
+
+**REGULAMENTAÇÃO DA VIA** - implantação de sinalização de regulamentação pelo órgão ou entidade competente com circunscrição sobre a via, definindo, entre outros, sentido de direção, tipo de estacionamento, horários e dias.
+
+**REFÚGIO** - parte da via, devidamente sinalizada e protegida, destinada ao uso de pedestres durante a travessia da mesma.
+
+**RENACH** - Registro Nacional de Condutores Habilitados.
+
+**RENAVAM** - Registro Nacional de Veículos Automotores.
+
+**RETORNO** - movimento de inversão total de sentido da direção original de veículos.
+
+**RODOVIA** - via rural pavimentada.
+
+**SEMI-REBOQUE** - veículo de um ou mais eixos que se apóia na sua unidade tratora ou é a ela ligado por meio de articulação.
+
+**SINAIS DE TRÂNSITO** - elementos de sinalização viária que se utilizam de placas, marcas viárias, equipamentos de controle luminosos, dispositivos auxiliares, apitos e gestos, destinados exclusivamente a ordenar ou dirigir o trânsito dos veículos e pedestres.
+
+**SINALIZAÇÃO** - conjunto de sinais de trânsito e dispositivos de segurança colocados na via pública com o objetivo de garantir sua utilização adequada, possibilitando melhor fluidez no trânsito e maior segurança dos veículos e pedestres que nela circulam.
+
+**SONS POR APITO** - sinais sonoros, emitidos exclusivamente pelos agentes da autoridade de trânsito nas vias, para orientar ou indicar o direito de passagem dos veículos ou pedestres, sobrepondo-se ou completando sinalização existente no local ou norma estabelecida neste Código.
+
+**TARA** - peso próprio do veículo, acrescido dos pesos da carroçaria e equipamento, do combustível, das ferramentas e acessórios, da roda sobressalente, do extintor de incêndio e do fluido de arrefecimento, expresso em quilogramas.
+
+**TRAILER** - reboque ou semi-reboque tipo casa, com duas, quatro, ou seis rodas, acoplado ou adaptado à traseira de automóvel ou camionete, utilizado em geral em atividades turísticas como alojamento, ou para atividades comerciais.
+
+**TRÂNSITO** - movimentação e imobilização de veículos, pessoas e animais nas vias terrestres.
+
+**TRANSPOSIÇÃO DE FAIXAS** - passagem de um veículo de uma faixa demarcada para outra.
+
+**TRATOR** - veículo automotor construído para realizar trabalho agrícola, de construção e pavimentação e tracionar outros veículos e equipamentos.
+
+**ULTRAPASSAGEM** - movimento de passar à frente de outro veículo que se desloca no mesmo sentido, em menor velocidade e na mesma faixa de tráfego, necessitando sair e retornar à faixa de origem.
+
+**UTILITÁRIO** - veículo misto caracterizado pela versatilidade do seu uso, inclusive fora de estrada.
+
+**VEÍCULO ARTICULADO** - combinação de veículos acoplados, sendo um deles automotor.
+
+**VEÍCULO AUTOMOTOR** - todo veículo a motor de propulsão que circule por seus próprios meios, e que serve normalmente para o transporte viário de pessoas e coisas, ou para a tração viária de veículos utilizados para o transporte de pessoas e coisas. O termo compreende os veículos conectados a uma linha elétrica e que não circulam sobre trilhos (ônibus elétrico).
+
+**VEÍCULO DE CARGA** - veículo destinado ao transporte de carga, podendo transportar dois passageiros, exclusive o condutor.
+
+**VEÍCULO DE COLEÇÃO** - aquele que, mesmo tendo sido fabricado há mais de trinta anos, conserva suas características originais de fabricação e possui valor histórico próprio.
+
+**VEÍCULO CONJUGADO** - combinação de veículos, sendo o primeiro um veículo automotor e os demais reboques ou equipamentos de trabalho agrícola, construção, terraplenagem ou pavimentação.
+
+**VEÍCULO DE GRANDE PORTE** - veículo automotor destinado ao transporte de carga com peso bruto total máximo superior a dez mil quilogramas e de passageiros, superior a vinte passageiros.
+
+**VEÍCULO DE PASSAGEIROS** - veículo destinado ao transporte de pessoas e suas bagagens.
+
+**VEÍCULO MISTO** - veículo automotor destinado ao transporte simultâneo de carga e passageiro.
+
+**VIA** - superfície por onde transitam veículos, pessoas e animais, compreendendo a pista, a calçada, o acostamento, ilha e canteiro central.
+
+**VIA DE TRÂNSITO RÁPIDO** - aquela caracterizada por acessos especiais com trânsito livre, sem interseções em nível, sem acessibilidade direta aos lotes lindeiros e sem travessia de pedestres em nível.
+
+**VIA ARTERIAL** - aquela caracterizada por interseções em nível, geralmente controlada por semáforo, com acessibilidade aos lotes lindeiros e às vias secundárias e locais, possibilitando o trânsito entre as regiões da cidade.
+
+**VIA COLETORA** - aquela destinada a coletar e distribuir o trânsito que tenha necessidade de entrar ou sair das vias de trânsito rápido ou arteriais, possibilitando o trânsito dentro das regiões da cidade.
+
+**VIA LOCAL** - aquela caracterizada por interseções em nível não semaforizadas, destinada apenas ao acesso local ou a áreas restritas.
+
+**VIA RURAL** - estradas e rodovias.
+
+**VIA URBANA** - ruas, avenidas, vielas, ou caminhos e similares abertos à circulação pública, situados na área urbana, caracterizados principalmente por possuírem imóveis edificados ao longo de sua extensão.
+
+**VIAS E ÁREAS DE PEDESTRES** - vias ou conjunto de vias destinadas à circulação prioritária de pedestres.
+
+**VIADUTO** - obra de construção civil destinada a transpor uma depressão de terreno ou servir de passagem superior.
