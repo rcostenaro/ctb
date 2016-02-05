@@ -636,6 +636,77 @@ V - ser aprovado em curso especializado, nos termos da regulamentação do CONTR
 Art. 139. O disposto neste Capítulo não exclui a competência municipal de aplicar as exigências previstas em seus regulamentos, para o transporte de escolares.
 CAPÍTULO XIV
 DA HABILITAÇÃO
+Art. 140. A habilitação para conduzir veículo automotor e elétrico será apurada por meio de exames que deverão ser realizados junto ao órgão ou entidade executivos do Estado ou do Distrito Federal, do domicílio ou residência do candidato, ou na sede estadual ou distrital do próprio órgão, devendo o condutor preencher os seguintes requisitos:
+I - ser penalmente imputável;
+II - saber ler e escrever;
+III - possuir Carteira de Identidade ou equivalente.
+Parágrafo único. As informações do candidato à habilitação serão cadastradas no RENACH.
+Art. 141. O processo de habilitação, as normas relativas à aprendizagem para conduzir veículos automotores e elétricos e à autorização para conduzir ciclomotores serão regulamentados pelo CONTRAN.
+§ 1º A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo dos Municípios.
+§ 2º (VETADO)
+Art. 142. O reconhecimento de habilitação obtida em outro país está subordinado às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN.
+Art. 143. Os candidatos poderão habilitar-se nas categorias de A a E, obedecida a seguinte gradação:
+I - Categoria A - condutor de veículo motorizado de duas ou três rodas, com ou sem carro lateral;
+II - Categoria B - condutor de veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a três mil e quinhentos quilogramas e cuja lotação não exceda a oito lugares, excluído o do motorista;
+III - Categoria C - condutor de veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a três mil e quinhentos quilogramas;
+IV - Categoria D - condutor de veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a oito lugares, excluído o do motorista;
+V - Categoria E - condutor de combinação de veículos em que a unidade tratora se enquadre nas Categorias B, C ou D e cuja unidade acoplada, reboque, semi-reboque ou articulada, tenha seis mil quilogramas ou mais de peso bruto total, ou cuja lotação exceda a oito lugares, ou, ainda, seja enquadrado na categoria trailer.
+§ 1º Para habilitar-se na categoria C, o condutor deverá estar habilitado no mínimo há um ano na categoria B e não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias, durante os últimos doze meses.
+§ 2º Aplica-se o disposto no inciso V ao condutor da combinação de veículos com mais de uma unidade tracionada, independentemente da capacidade de tração ou do peso bruto total. 
+Art. 144. O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplenagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado nas categorias C, D ou E.
+Art. 145. Para habilitar-se nas categorias D e E ou para conduzir veículo de transporte coletivo de passageiros, de escolares, de emergência ou de produto perigoso, o candidato deverá preencher os seguintes requisitos:
+I - ser maior de vinte e um anos;
+II - estar habilitado:
+a) no mínimo há dois anos na categoria B, ou no mínimo há um ano na categoria C, quando pretender habilitar-se na categoria D; e
+b) no mínimo há um ano na categoria C, quando pretender habilitar-se na categoria E;
+III - não ter cometido nenhuma infração grave ou gravíssima ou ser reincidente em infrações médias durante os últimos doze meses;
+IV - ser aprovado em curso especializado e em curso de treinamento de prática veicular em situação de risco, nos termos da normatização do CONTRAN.
+Art. 146. Para conduzir veículos de outra categoria o condutor deverá realizar exames complementares exigidos para habilitação na categoria pretendida.
+Art. 147. O candidato à habilitação deverá submeter-se a exames realizados pelo órgão executivo de trânsito, na seguinte ordem:
+I - de aptidão física e mental;
+II - (VETADO)
+III - escrito, sobre legislação de trânsito;
+IV - de noções de primeiros socorros, conforme regulamentação do CONTRAN;
+V - de direção veicular, realizado na via pública, em veículo da categoria para a qual estiver habilitando-se.
+Parágrafo único. Os resultados dos exames e a identificação dos respectivos examinadores serão registrados no RENACH.
+Art. 148. Os exames de habilitação, exceto os de direção veicular, poderão ser aplicados por entidades públicas ou privadas credenciadas pelo órgão executivo de trânsito dos Estados e do Distrito Federal, de acordo com as normas estabelecidas pelo CONTRAN.
+§ 1º A formação de condutores deverá incluir, obrigatoriamente, curso de direção defensiva e de conceitos básicos de proteção ao meio ambiente relacionados com o trânsito.
+§ 2º Ao candidato aprovado será conferida Permissão para Dirigir, com validade de um ano.
+§ 3º A Carteira Nacional de Habilitação será conferida ao condutor no término de um ano, desde que o mesmo não tenha cometido nenhuma infração de natureza grave ou gravíssima ou seja reincidente em infração média.
+§ 4º A não obtenção da Carteira Nacional de Habilitação, tendo em vista a incapacidade de atendimento do disposto no parágrafo anterior, obriga o candidato a reiniciar todo o processo de habilitação.
+Art. 149. (VETADO)
+Art. 150. Ao renovar os exames previstos no artigo anterior, o condutor que não tenha curso de direção defensiva e primeiros socorros deverá a eles ser submetido, conforme normatização do CONTRAN.
+Parágrafo único. A empresa que utiliza condutores contratados para operar a sua frota de veículos é obrigada a fornecer curso de direção defensiva, primeiros socorros e outros conforme normatização do CONTRAN.
+Art. 151. No caso de reprovação no exame escrito sobre legislação de trânsito ou de direção veicular, o candidato só poderá repetir o exame depois de decorridos quinze dias da divulgação do resultado.
+Art. 152. O exame de direção veicular será realizado perante uma comissão integrada por três membros designados pelo dirigente do órgão executivo local de trânsito, para o período de um ano, permitida a recondução por mais um período de igual duração.
+§ 1º Na comissão de exame de direção veicular, pelo menos um membro deverá ser habilitado na categoria igual ou superior à pretendida pelo candidato.
+§ 2º Os militares das Forças Armadas e Auxiliares que possuírem curso de formação de condutor, ministrado em suas corporações, serão dispensados, para a concessão da Carteira Nacional de Habilitação, dos exames a que se houverem submetido com aprovação naquele curso, desde que neles sejam observadas as normas estabelecidas pelo CONTRAN.
+§ 3º O militar interessado instruirá seu requerimento com ofício do Comandante, Chefe ou Diretor da organização militar em que servir, do qual constarão: o número do registro de identificação, naturalidade, nome, filiação, idade e categoria em que se habilitou a conduzir, acompanhado de cópias das atas dos exames prestados.
+§ 4º (VETADO)
+Art. 153. O candidato habilitado terá em seu prontuário a identificação de seus instrutores e examinadores, que serão passíveis de punição conforme regulamentação a ser estabelecida pelo CONTRAN.
+Parágrafo único. As penalidades aplicadas aos instrutores e examinadores serão de advertência, suspensão e cancelamento da autorização para o exercício da atividade, conforme a falta cometida.
+Art. 154. Os veículos destinados à formação de condutores serão identificados por uma faixa amarela, de vinte centímetros de largura, pintada ao longo da carroçaria, à meia altura, com a inscrição AUTO-ESCOLA na cor preta.
+Parágrafo único. No veículo eventualmente utilizado para aprendizagem, quando autorizado para servir a esse fim, deverá ser afixada ao longo de sua carroçaria, à meia altura, faixa branca removível, de vinte centímetros de largura, com a inscrição AUTO-ESCOLA na cor preta.
+Art. 155. A formação de condutor de veículo automotor e elétrico será realizada por instrutor autorizado pelo órgão executivo de trânsito dos Estados ou do Distrito Federal, pertencente ou não à entidade credenciada.
+Art. 156. O CONTRAN regulamentará o credenciamento para prestação de serviço pelas auto-escolas e outras entidades destinadas à formação de condutores e às exigências necessárias para o exercício das atividades de instrutor e examinador.
+Art. 157. (VETADO)
+Art. 158. A aprendizagem só poderá realizar-se:
+I - nos termos, horários e locais estabelecidos pelo órgão executivo de trânsito;
+II - acompanhado o aprendiz por instrutor autorizado.
+Parágrafo único. Além do aprendiz e do instrutor, o veículo utilizado na aprendizagem poderá conduzir apenas mais um acompanhante. 
+Art. 159. A Carteira Nacional de Habilitação, expedida em modelo único e de acordo com as especificações do CONTRAN, atendidos os pré-requisitos estabelecidos neste Código, conterá fotografia, identificação e CPF do condutor, terá fé pública e equivalerá a documento de identidade em todo o território nacional.
+§ 1º É obrigatório o porte da Permissão para Dirigir ou da Carteira Nacional de Habilitação quando o condutor estiver à direção do veículo.
+§ 2º (VETADO)
+§ 3º A emissão de nova via da Carteira Nacional de Habilitação será regulamentada pelo CONTRAN.
+§ 4º (VETADO)
+§ 5º A Carteira Nacional de Habilitação e a Permissão para Dirigir somente terão validade para a condução de veículo quando apresentada em original.
+§ 6º A identificação da Carteira Nacional de Habilitação expedida e a da autoridade expedidora serão registradas no RENACH.
+§ 7º A cada condutor corresponderá um único registro no RENACH, agregando-se neste todas as informações.
+§ 8º A renovação da validade da Carteira Nacional de Habilitação ou a emissão de uma nova via somente será realizada após quitação de débitos constantes do prontuário do condutor.
+§ 9º (VETADO)
+Art. 160. O condutor condenado por delito de trânsito deverá ser submetido a novos exames para que possa voltar a dirigir, de acordo com as normas estabelecidas pelo CONTRAN, independentemente do reconhecimento da prescrição, em face da pena concretizada na sentença.
+§ 1º Em caso de acidente grave, o condutor nele envolvido poderá ser submetido aos exames exigidos neste artigo, a juízo da autoridade executiva estadual de trânsito, assegurada ampla defesa ao condutor.
+§ 2º No caso do parágrafo anterior, a autoridade executiva estadual de trânsito poderá apreender o documento de habilitação do condutor até a sua aprovação nos exames realizados.
 CAPÍTULO XV
 DAS INFRAÇÕES
 CAPÍTULO XVI
