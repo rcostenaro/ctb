@@ -1343,6 +1343,75 @@ Penalidade - multa;
 Medida administrativa - remoção da bicicleta, mediante recibo para o pagamento da multa.
 CAPÍTULO XVI
 DAS PENALIDADES
+Art. 256. A autoridade de trânsito, na esfera das competências estabelecidas neste Código e dentro de sua circunscrição, deverá aplicar, às infrações nele previstas, as seguintes penalidades:
+I - advertência por escrito;
+II - multa;
+III - suspensão do direito de dirigir;
+IV - apreensão do veículo;
+V - cassação da Carteira Nacional de Habilitação;
+VI - cassação da Permissão para Dirigir;
+VII - freqüência obrigatória em curso de reciclagem.
+§ 1º A aplicação das penalidades previstas neste Código não elide as punições originárias de ilícitos penais decorrentes de crimes de trânsito, conforme disposições de lei.
+§ 2º (VETADO)
+§ 3º A imposição da penalidade será comunicada aos órgãos ou entidades executivos de trânsito responsáveis pelo licenciamento do veículo e habilitação do condutor.
+Art. 257. As penalidades serão impostas ao condutor, ao proprietário do veículo, ao embarcador e ao transportador, salvo os casos de descumprimento de obrigações e deveres impostos a pessoas físicas ou jurídicas expressamente mencionados neste Código.
+§ 1º Aos proprietários e condutores de veículos serão impostas concomitantemente as penalidades de que trata este Código toda vez que houver responsabilidade solidária em infração dos preceitos que lhes couber observar, respondendo cada um de per si pela falta em comum que lhes for atribuída.
+§ 2º Ao proprietário caberá sempre a responsabilidade pela infração referente à prévia regularização e preenchimento das formalidades e condições exigidas para o trânsito do veículo na via terrestre, conservação e inalterabilidade de suas características, componentes, agregados, habilitação legal e compatível de seus condutores, quando esta for exigida, e outras disposições que deva observar.
+§ 3º Ao condutor caberá a responsabilidade pelas infrações decorrentes de atos praticados na direção do veículo.
+§ 4º O embarcador é responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou no peso bruto total, quando simultaneamente for o único remetente da carga e o peso declarado na nota fiscal, fatura ou manifesto for inferior àquele aferido.
+§ 5º O transportador é o responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou quando a carga proveniente de mais de um embarcador ultrapassar o peso bruto total.
+§ 6º O transportador e o embarcador são solidariamente responsáveis pela infração relativa ao excesso de peso bruto total, se o peso declarado na nota fiscal, fatura ou manifesto for superior ao limite legal.
+§ 7º Não sendo imediata a identificação do infrator, o proprietário do veículo terá quinze dias de prazo, após a notificação da autuação, para apresentá-lo, na forma em que dispuser o CONTRAN, ao fim do qual, não o fazendo, será considerado responsável pela infração.
+§ 8º Após o prazo previsto no parágrafo anterior, não havendo identificação do infrator e sendo o veículo de propriedade de pessoa jurídica, será lavrada nova multa ao proprietário do veículo, mantida a originada pela infração, cujo valor é o da multa multiplicada pelo número de infrações iguais cometidas no período de doze meses.
+§ 9º O fato de o infrator ser pessoa jurídica não o exime do disposto no § 3º do art. 258 e no art. 259.
+Art. 258. As infrações punidas com multa classificam-se, de acordo com sua gravidade, em quatro categorias:
+I - infração de natureza gravíssima, punida com multa de valor correspondente a 180 (cento e oitenta) UFIR;
+II - infração de natureza grave, punida com multa de valor correspondente a 120 (cento e vinte) UFIR;
+III - infração de natureza média, punida com multa de valor correspondente a 80 (oitenta) UFIR;
+IV - infração de natureza leve, punida com multa de valor correspondente a 50 (cinqüenta) UFIR.
+§ 1º Os valores das multas serão corrigidos no primeiro dia útil de cada mês pela variação da UFIR ou outro índice legal de correção dos débitos fiscais.
+§ 2º Quando se tratar de multa agravada, o fator multiplicador ou índice adicional específico é o previsto neste Código.
+§ 3º (VETADO)
+§ 4º (VETADO)
+Art. 259. A cada infração cometida são computados os seguintes números de pontos:
+I - gravíssima - sete pontos;
+II - grave - cinco pontos;
+III - média - quatro pontos;
+IV - leve - três pontos.
+§ 1º (VETADO)
+§ 2º (VETADO)
+Art. 260. As multas serão impostas e arrecadadas pelo órgão ou entidade de trânsito com circunscrição sobre a via onde haja ocorrido a infração, de acordo com a competência estabelecida neste Código.
+§ 1º As multas decorrentes de infração cometida em unidade da Federação diversa da do licenciamento do veículo serão arrecadadas e compensadas na forma estabelecida pelo CONTRAN.
+§ 2º As multas decorrentes de infração cometida em unidade da Federação diversa daquela do licenciamento do veículo poderão ser comunicadas ao órgão ou entidade responsável pelo seu licenciamento, que providenciará a notificação.
+§ 3º As multas decorrentes de infração cometida em unidade da Federação diversa daquela do licenciamento do veículo poderão ser cobradas no ato da autuação, sem prejuízo dos recursos previstos neste Código.
+§ 4º Quando a infração for cometida com veículo licenciado no exterior, em trânsito no território nacional, a multa respectiva deverá ser paga antes de sua saída do País, respeitado o princípio de reciprocidade.
+Art. 261. A penalidade de suspensão do direito de dirigir será aplicada, nos casos previstos neste Código, pelo prazo mínimo de um mês até o máximo de um ano e, no caso de reincidência no período de doze meses, pelo prazo mínimo de seis meses até o máximo de dois anos, segundo critérios estabelecidos pelo CONTRAN.
+§ 1º Além dos casos previstos em outros artigos deste Código e excetuados aqueles especificados no art. 263, a suspensão do direito de dirigir será aplicada sempre que o infrator atingir a contagem de vinte pontos, prevista no art. 259.
+§ 2º Quando ocorrer a suspensão do direito de dirigir, a Carteira Nacional de Habilitação será devolvida a seu titular imediatamente após cumprida a penalidade e o curso de reciclagem.
+Art. 262. O veículo apreendido em decorrência de penalidade aplicada será recolhido ao depósito e nele permanecerá sob custódia e responsabilidade do órgão ou entidade apreendedora, com ônus para o seu proprietário, pelo prazo de até trinta dias, conforme critério a ser estabelecido pelo CONTRAN.
+§ 1º No caso de infração em que seja aplicável a penalidade de apreensão do veículo, o agente de trânsito deverá, desde logo, adotar a medida administrativa de recolhimento do Certificado de Licenciamento Anual.
+§ 2º A restituição dos veículos apreendidos só ocorrerá mediante o prévio pagamento das multas impostas, taxas e despesas com remoção e estada, além de outros encargos previstos na legislação específica.
+§ 3º A retirada dos veículos apreendidos é condicionada, ainda, ao reparo de qualquer componente ou equipamento obrigatório que não esteja em perfeito estado de funcionamento.
+§ 4º Se o reparo referido no parágrafo anterior demandar providência que não possa ser tomada no depósito, a autoridade responsável pela apreensão liberará o veículo para reparo, mediante autorização, assinando prazo para a sua reapresentação e vistoria.
+Art. 263. A cassação do documento de habilitação dar-se-á:
+I - quando, suspenso o direito de dirigir, o infrator conduzir qualquer veículo;
+II - no caso de reincidência, no prazo de doze meses, das infrações previstas no inciso III do art. 162 e nos arts. 163, 164, 165, 173, 174 e 175;
+III - quando condenado judicialmente por delito de trânsito, observado o disposto no art. 160.
+§ 1º Constatada, em processo administrativo, a irregularidade na expedição do documento de habilitação, a autoridade expedidora promoverá o seu cancelamento.
+§ 2º Decorridos dois anos da cassação da Carteira Nacional de Habilitação, o infrator poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma estabelecida pelo CONTRAN.
+Art. 264. (VETADO)
+Art. 265. As penalidades de suspensão do direito de dirigir e de cassação do documento de habilitação serão aplicadas por decisão fundamentada da autoridade de trânsito competente, em processo administrativo, assegurado ao infrator amplo direito de defesa.
+Art. 266. Quando o infrator cometer, simultaneamente, duas ou mais infrações, ser-lhe-ão aplicadas, cumulativamente, as respectivas penalidades.
+Art. 267. Poderá ser imposta a penalidade de advertência por escrito à infração de natureza leve ou média, passível de ser punida com multa, não sendo reincidente o infrator, na mesma infração, nos últimos doze meses, quando a autoridade, considerando o prontuário do infrator, entender esta providência como mais educativa.
+§ 1º A aplicação da advertência por escrito não elide o acréscimo do valor da multa prevista no § 3º do art. 258, imposta por infração posteriormente cometida.
+§ 2º O disposto neste artigo aplica-se igualmente aos pedestres, podendo a multa ser transformada na participação do infrator em cursos de segurança viária, a critério da autoridade de trânsito.
+Art. 268. O infrator será submetido a curso de reciclagem, na forma estabelecida pelo CONTRAN:
+I - quando, sendo contumaz, for necessário à sua reeducação;
+II - quando suspenso do direito de dirigir;
+III - quando se envolver em acidente grave para o qual haja contribuído, independentemente de processo judicial;
+IV - quando condenado judicialmente por delito de trânsito;
+V - a qualquer tempo, se for constatado que o condutor está colocando em risco a segurança do trânsito;
+VI - em outras situações a serem definidas pelo CONTRAN.
 CAPÍTULO XVII
 DAS MEDIDAS ADMINISTRATIVAS
 CAPÍTULO XVIII
