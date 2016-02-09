@@ -1414,6 +1414,46 @@ V - a qualquer tempo, se for constatado que o condutor está colocando em risco 
 VI - em outras situações a serem definidas pelo CONTRAN.
 CAPÍTULO XVII
 DAS MEDIDAS ADMINISTRATIVAS
+Art. 269. A autoridade de trânsito ou seus agentes, na esfera das competências estabelecidas neste Código e dentro de sua circunscrição, deverá adotar as seguintes medidas administrativas:
+I - retenção do veículo;
+II - remoção do veículo;
+III - recolhimento da Carteira Nacional de Habilitação;
+IV - recolhimento da Permissão para Dirigir;
+V - recolhimento do Certificado de Registro;
+VI - recolhimento do Certificado de Licenciamento Anual;
+VII - (VETADO)
+VIII - transbordo do excesso de carga;
+IX - realização de teste de dosagem de alcoolemia ou perícia de substância entorpecente ou que determine dependência física ou psíquica;
+X - recolhimento de animais que se encontrem soltos nas vias e na faixa de domínio das vias de circulação, restituindo-os aos seus proprietários, após o pagamento de multas e encargos devidos.
+§ 1º A ordem, o consentimento, a fiscalização, as medidas administrativas e coercitivas adotadas pelas autoridades de trânsito e seus agentes terão por objetivo prioritário a proteção à vida e à incolumidade física da pessoa.
+§ 2º As medidas administrativas previstas neste artigo não elidem a aplicação das penalidades impostas por infrações estabelecidas neste Código, possuindo caráter complementar a estas.
+§ 3º São documentos de habilitação a Carteira Nacional de Habilitação e a Permissão para Dirigir.
+§ 4º Aplica-se aos animais recolhidos na forma do inciso X o disposto nos arts. 271 e 328, no que couber.
+Art. 270. O veículo poderá ser retido nos casos expressos neste Código.
+§ 1º Quando a irregularidade puder ser sanada no local da infração, o veículo será liberado tão logo seja regularizada a situação.
+§ 2º Não sendo possível sanar a falha no local da infração, o veículo poderá ser retirado por condutor regularmente habilitado, mediante recolhimento do Certificado de Licenciamento Anual, contra recibo, assinalando-se ao condutor prazo para sua regularização, para o que se considerará, desde logo, notificado.
+§ 3º O Certificado de Licenciamento Anual será devolvido ao condutor no órgão ou entidade aplicadores das medidas administrativas, tão logo o veículo seja apresentado à autoridade devidamente regularizado.
+§ 4º Não se apresentando condutor habilitado no local da infração, o veículo será recolhido ao depósito, aplicando-se neste caso o disposto nos parágrafos do art. 262.
+§ 5º A critério do agente, não se dará a retenção imediata, quando se tratar de veículo de transporte coletivo transportando passageiros ou veículo transportando produto perigoso ou perecível, desde que ofereça condições de segurança para circulação em via pública.
+Art. 271. O veículo será removido, nos casos previstos neste Código, para o depósito fixado pelo órgão ou entidade competente, com circunscrição sobre a via.
+Parágrafo único. A restituição dos veículos removidos só ocorrerá mediante o pagamento das multas, taxas e despesas com remoção e estada, além de outros encargos previstos na legislação específica.  
+Art. 272. O recolhimento da Carteira Nacional de Habilitação e da Permissão para Dirigir dar-se-á mediante recibo, além dos casos previstos neste Código, quando houver suspeita de sua inautenticidade ou adulteração.
+Art. 273. O recolhimento do Certificado de Registro dar-se-á mediante recibo, além dos casos previstos neste Código, quando:
+I - houver suspeita de inautenticidade ou adulteração;
+II - se, alienado o veículo, não for transferida sua propriedade no prazo de trinta dias.
+Art. 274. O recolhimento do Certificado de Licenciamento Anual dar-se-á mediante recibo, além dos casos previstos neste Código, quando:
+I - houver suspeita de inautenticidade ou adulteração;
+II - se o prazo de licenciamento estiver vencido;
+III - no caso de retenção do veículo, se a irregularidade não puder ser sanada no local.
+Art. 275. O transbordo da carga com peso excedente é condição para que o veículo possa prosseguir viagem e será efetuado às expensas do proprietário do veículo, sem prejuízo da multa aplicável.
+Parágrafo único. Não sendo possível desde logo atender ao disposto neste artigo, o veículo será recolhido ao depósito, sendo liberado após sanada a irregularidade e pagas as despesas de remoção e estada.
+Art. 276. A concentração de seis decigramas de álcool por litro de sangue comprova que o condutor se acha impedido de dirigir veículo automotor.
+Parágrafo único. O CONTRAN estipulará os índices equivalentes para os demais testes de alcoolemia.
+Art. 277. Todo condutor de veículo automotor, envolvido em acidente de trânsito ou que for alvo de fiscalização de trânsito, sob suspeita de haver excedido os limites previstos no artigo anterior, será submetido a testes de alcoolemia, exames clínicos, perícia, ou outro exame que por meios técnicos ou científicos, em aparelhos homologados pelo CONTRAN, permitam certificar seu estado.
+Parágrafo único. Medida correspondente aplica-se no caso de suspeita de uso de substância entorpecente, tóxica ou de efeitos análogos.
+Art. 278. Ao condutor que se evadir da fiscalização, não submetendo veículo à pesagem obrigatória nos pontos de pesagem, fixos ou móveis, será aplicada a penalidade prevista no art. 209, além da obrigação de retornar ao ponto de evasão para fim de pesagem obrigatória.
+Parágrafo único. No caso de fuga do condutor à ação policial, a apreensão do veículo dar-se-á tão logo seja localizado, aplicando-se, além das penalidades em que incorre, as estabelecidas no art. 210.
+Art. 279. Em caso de acidente com vítima, envolvendo veículo equipado com registrador instantâneo de velocidade e tempo, somente o perito oficial encarregado do levantamento pericial poderá retirar o disco ou unidade armazenadora do registro.
 CAPÍTULO XVIII
 DO PROCESSO ADMINISTRATIVO
 CAPÍTULO XIX
