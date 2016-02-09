@@ -337,7 +337,7 @@ b) estradas.
 Art. 61. A velocidade máxima permitida para a via será indicada por meio de sinalização, obedecidas suas características técnicas e as condições de trânsito.
 § 1º Onde não existir sinalização regulamentadora, a velocidade máxima será de:
 I - nas vias urbanas:
-a) oitenta quilômetros por hora, nas vias de trânsito rápido:
+a) oitenta quilômetros por hora, nas vias de trânsito rápido;
 b) sessenta quilômetros por hora, nas vias arteriais;
 c) quarenta quilômetros por hora, nas vias coletoras;
 d) trinta quilômetros por hora, nas vias locais;
@@ -541,7 +541,7 @@ Art. 111. É vedado, nas áreas envidraçadas do veículo:
 I - (VETADO)
 II - o uso de cortinas, persianas fechadas ou similares nos veículos em movimento, salvo nos que possuam espelhos retrovisores em ambos os lados.
 Parágrafo único. É proibido o uso de inscrição de caráter publicitário ou qualquer outra que possa desviar a atenção dos condutores em toda a extensão do pára-brisa e da traseira dos veículos, salvo se não colocar em risco a segurança do trânsito.
-Art. 112. O CONTRAN regulamentará os materiais e equipamentos que devam fazer parte do conjunto de primeiros socorros, de porte obrigatório para os veículos
+Art. 112. O CONTRAN regulamentará os materiais e equipamentos que devam fazer parte do conjunto de primeiros socorros, de porte obrigatório para os veículos.
 Art. 113. Os importadores, as montadoras, as encarroçadoras e fabricantes de veículos e autopeças são responsáveis civil e criminalmente por danos causados aos usuários, a terceiros, e ao meio ambiente, decorrentes de falhas oriundas de projetos e da qualidade dos materiais e equipamentos utilizados na sua fabricação.
 Seção III
 Da Identificação do Veículo
@@ -553,6 +553,7 @@ Art. 115. O veículo será identificado externamente por meio de placas dianteir
 § 1º Os caracteres das placas serão individualizados para cada veículo e o acompanharão até a baixa do registro, sendo vedado seu reaproveitamento.
 § 2º As placas com as cores verde e amarela da Bandeira Nacional serão usadas somente pelos veículos de representação pessoal do Presidente e do Vice-Presidente da República, dos Presidentes do Senado Federal e da Câmara dos Deputados, do Presidente e dos Ministros do Supremo Tribunal Federal, dos Ministros de Estado, do Advogado-Geral da União e do Procurador-Geral da República.
 § 3º Os veículos de representação dos Presidentes dos Tribunais Federais, dos Governadores, Prefeitos, Secretários Estaduais e Municipais, dos Presidentes das Assembléias Legislativas, das Câmaras Municipais, dos Presidentes dos Tribunais Estaduais e do Distrito Federal, e do respectivo chefe do Ministério Público e ainda dos Oficiais Generais das Forças Armadas terão placas especiais, de acordo com os modelos estabelecidos pelo CONTRAN.
+§ 4º Os aparelhos automotores destinados a puxar ou arrastar maquinaria de qualquer natureza ou a executar trabalhos agrícolas e de construção ou de pavimentação são sujeitos, desde que lhes seja facultado transitar nas vias, ao registro e licenciamento da repartição competente, devendo receber numeração especial.
 § 5º O disposto neste artigo não se aplica aos veículos de uso bélico. 
 § 6º Os veículos de duas ou três rodas são dispensados da placa dianteira.
 Art. 116. Os veículos de propriedade da União, dos Estados e do Distrito Federal, devidamente registrados e licenciados, somente quando estritamente usados em serviço reservado de caráter policial, poderão usar placas particulares, obedecidos os critérios e limites estabelecidos pela legislação que regulamenta o uso de veículo oficial.
@@ -1436,7 +1437,7 @@ Art. 270. O veículo poderá ser retido nos casos expressos neste Código.
 § 4º Não se apresentando condutor habilitado no local da infração, o veículo será recolhido ao depósito, aplicando-se neste caso o disposto nos parágrafos do art. 262.
 § 5º A critério do agente, não se dará a retenção imediata, quando se tratar de veículo de transporte coletivo transportando passageiros ou veículo transportando produto perigoso ou perecível, desde que ofereça condições de segurança para circulação em via pública.
 Art. 271. O veículo será removido, nos casos previstos neste Código, para o depósito fixado pelo órgão ou entidade competente, com circunscrição sobre a via.
-Parágrafo único. A restituição dos veículos removidos só ocorrerá mediante o pagamento das multas, taxas e despesas com remoção e estada, além de outros encargos previstos na legislação específica.  
+Parágrafo único. A restituição dos veículos removidos só ocorrerá mediante o pagamento das multas, taxas e despesas com remoção e estada, além de outros encargos previstos na legislação específica.
 Art. 272. O recolhimento da Carteira Nacional de Habilitação e da Permissão para Dirigir dar-se-á mediante recibo, além dos casos previstos neste Código, quando houver suspeita de sua inautenticidade ou adulteração.
 Art. 273. O recolhimento do Certificado de Registro dar-se-á mediante recibo, além dos casos previstos neste Código, quando:
 I - houver suspeita de inautenticidade ou adulteração;
