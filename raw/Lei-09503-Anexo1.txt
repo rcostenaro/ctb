@@ -3,6 +3,7 @@ DOS CONCEITOS E DEFINIÇÕES
 Para efeito deste Código adotam-se as seguintes definições:
 ACOSTAMENTO - parte da via diferenciada da pista de rolamento destinada à parada ou estacionamento de veículos, em caso de emergência, e à circulação de pedestres e bicicletas, quando não houver local apropriado para esse fim.
 AGENTE DA AUTORIDADE DE TRÂNSITO - pessoa, civil ou policial militar, credenciada pela autoridade de trânsito para o exercício das atividades de fiscalização, operação, policiamento ostensivo de trânsito ou patrulhamento.
+AR ALVEOLAR - ar expirado pela boca de um indivíduo, originário dos alvéolos pulmonares.
 AUTOMÓVEL - veículo automotor destinado ao transporte de passageiros, com capacidade para até oito pessoas, exclusive o condutor.
 AUTORIDADE DE TRÂNSITO - dirigente máximo de órgão ou entidade executivo integrante do Sistema Nacional de Trânsito ou pessoa por ele expressamente credenciada.
 BALANÇO TRASEIRO - distância entre o plano vertical passando pelos centros das rodas traseiras extremas e o ponto mais recuado do veículo, considerando-se todos os elementos rigidamente fixados ao mesmo.
@@ -30,6 +31,7 @@ CRUZAMENTO - interseção de duas vias em nível.
 DISPOSITIVO DE SEGURANÇA - qualquer elemento que tenha a função específica de proporcionar maior segurança ao usuário da via, alertando-o sobre situações de perigo que possam colocar em risco sua integridade física e dos demais usuários da via, ou danificar seriamente o veículo.
 ESTACIONAMENTO - imobilização de veículos por tempo superior ao necessário para embarque ou desembarque de passageiros. 
 ESTRADA - via rural não pavimentada. 
+ETILÔMETRO - aparelho destinado à medição do teor alcoólico no ar alveolar.
 FAIXAS DE DOMÍNIO - superfície lindeira às vias rurais, delimitada por lei específica e sob responsabilidade do órgão ou entidade de trânsito competente com circunscrição sobre a via.
 FAIXAS DE TRÂNSITO - qualquer uma das áreas longitudinais em que a pista pode ser subdividida, sinalizada ou não por marcas viárias longitudinais, que tenham uma largura suficiente para permitir a circulação de veículos automotores.
 FISCALIZAÇÃO - ato de controlar o cumprimento das normas estabelecidas na legislação de trânsito, por meio do poder de polícia administrativa de trânsito, no âmbito de circunscrição dos órgãos e entidades executivos de trânsito e de acordo com as competências definidas neste Código.
